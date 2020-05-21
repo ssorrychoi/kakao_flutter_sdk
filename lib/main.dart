@@ -14,8 +14,8 @@ import 'package:kakao_flutter_sdk/template.dart';
 import 'package:kakao_flutter_sdk/user.dart';
 
 void main() {
-  KakaoContext.clientId = "3472062745f0698a034b1b67cfcfc43a";
-  KakaoContext.javascriptClientId = "e7489d39b3579cd2e7501a948e13ce6b";
+  KakaoContext.clientId = "d1ab3757d87960f7ae7a6214c6e41bd7";
+  KakaoContext.javascriptClientId = "3f932ca5f98e3c9fc279867fce426fed";
   runApp(MyApp());
 }
 
