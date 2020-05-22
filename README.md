@@ -113,5 +113,5 @@ Runner > Info > URL Types 에서 URL Schemes에다가 'kakao`네이티브앱키`
 2. Runner > Runner > Info.plist > + > KAKAO_APP_KEY 를 추가한 후, 네이티브앱 키를 넣어준다.
 ![image](https://user-images.githubusercontent.com/43080040/82454102-578c6700-9aec-11ea-917b-05e3a8810f5e.png)
 
-## 👍🏻Finally!
+## 👍🏻Finally working!
 ![image](https://user-images.githubusercontent.com/43080040/82455096-88b96700-9aed-11ea-98fe-51000439d506.png)
